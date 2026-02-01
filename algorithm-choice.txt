@@ -1,0 +1,1 @@
+I chose the Upper Confidence Bound (UCB) algorithm because the rewards are continuous and stochastic, which matches UCB’s uncertainty-based exploration, while epsilon-greedy ignores uncertainty and Thompson Sampling assumes specific reward distributions that do not apply here.
